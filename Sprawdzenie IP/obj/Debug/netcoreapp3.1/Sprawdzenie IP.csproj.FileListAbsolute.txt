@@ -1,0 +1,40 @@
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.exe
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.deps.json
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.runtimeconfig.json
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.runtimeconfig.dev.json
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.dll
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.pdb
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.csprojAssemblyReference.cache
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.csproj.CoreCompileInputs.cache
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.AssemblyInfoInputs.cache
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.AssemblyInfo.cs
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.dll
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.pdb
+C:\Users\MDKrauzer\source\repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.genruntimeconfig.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.exe
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.deps.json
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.runtimeconfig.json
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.runtimeconfig.dev.json
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.dll
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.pdb
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.csprojAssemblyReference.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.AssemblyInfoInputs.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.AssemblyInfo.cs
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.csproj.CoreCompileInputs.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.dll
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.pdb
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.genruntimeconfig.cache
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.exe
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.deps.json
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.runtimeconfig.json
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.runtimeconfig.dev.json
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.dll
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\bin\Debug\netcoreapp3.1\Sprawdzenie IP.pdb
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.csproj.AssemblyReference.cache
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.AssemblyInfoInputs.cache
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.AssemblyInfo.cs
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.csproj.CoreCompileInputs.cache
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.dll
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.pdb
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\Sprawdzenie IP\Sprawdzenie IP\obj\Debug\netcoreapp3.1\Sprawdzenie IP.genruntimeconfig.cache
